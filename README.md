@@ -22,7 +22,7 @@ Hi! Welcome to my Data Introduction repositoy, I hope you find it useful!
 
 ## Data Analysis Software Basics
 
-## SQL
+### SQL
 
 ### Python
 
