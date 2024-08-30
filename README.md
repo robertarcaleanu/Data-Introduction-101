@@ -24,7 +24,24 @@ IDE stands for integrated development environment and it is basically the UI whe
 
 ## Basic Tools
 
+This section inteds to introduce you to the most common tools that someone starting working with data should know about. Additionally, it provides resources to practice each one in more detail.
+
 ### Excel
+
+Like it or not, Excel is the most common tool when dealing with data. Despite all its weekneses when it comes to more technical analysis, Excel is widely used by a lot of users. These range from Analysts to Executives, therefore, I believe a minimum of knowledge of excel is required. For me, this knowledge should include:
+
+* Basic data cleaning tasks
+* Vlookup (or alternatively xlookup)
+* Filtering
+* Pivot tables
+* Simple charts
+* Key shortcuts
+
+Excel supports more advanced tools, like Power Query, but for me this would be enough to feel comfortale with Excel.
+
+**External resources to learn Excel**
+- WIP
+- WIP
 
 ### Python
 
@@ -38,11 +55,49 @@ IDE stands for integrated development environment and it is basically the UI whe
 
 ## Data Analysis Software Basics
 
+This section focuses on providing the resources to learn the theory (syntax mainly) about the two main technologies in the Data field, which are SQL and Python. Additionally, it provides some resources to practice.
+
 ### SQL
+
+Small intro and use cases
+
+#### Data manipulation
+select, group, window functions
+
+#### Data Base Management
+create, update
 
 ### Python
 
-## Other tools
+Small intro and use cases
+
+#### Python Basics
+
+#### Data Types
+
+#### Data manipulation
+
+#### Data Visualization
+
+#### Machine Learning
+
+## Data Science Introduction
+
+### Supervised Learning
+
+
+### Unsupervised learning
+
+
+### Frameworks and algorithms
+
+#### Traditional machine learning
+
+#### Deep learning
+
+## Data Engineering Introduction
+
+## Others
 
 ### Cloud Computing
 
