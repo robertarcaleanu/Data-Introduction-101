@@ -16,4 +16,3 @@ class SQLQuery:
 
     def execute_query(self):
         self.load_data()
-        pass
