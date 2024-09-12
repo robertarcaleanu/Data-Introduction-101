@@ -15,4 +15,5 @@ class SolutionsLeetcode:
 
     def big_countries(self) -> pd.DataFrame:
         df = self.datasets.big_countries()
-        return df[df["area"] == df["area"].max()]
+
+        return df[(df["area"] >= 3e6) | (df["population"] >= 25000000)]
