@@ -1,12 +1,12 @@
 # Data-Introduction-101
 
-Hi! Welcome to my Data Introduction repositoy, I hope you find it useful!
+Hi! Welcome to my Data Introduction repository, I hope you find it useful!
 
 ## Scope
 
 ## Set Up
 
-In my opinion, the set-up is the most overwhelming part for a beginer. This instends to recommend the easiest tools to start working with Data.
+In my opinion, the set-up is the most overwhelming part for a beginner. This instends to recommend the easiest tools to start working with Data.
 
 ### Programming languages
 
